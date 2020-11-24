@@ -71,3 +71,9 @@ typings/
 
 # Serverless directories
 .serverless
+
+# env file
+.env
+
+# ignore folder
+ignore
